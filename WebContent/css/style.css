@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+#row-color{
+	background-color:#808080;
+}
+#row-color2{
+	background-color:#008080;
+}
+footer{
+    width:100%;
+    min-height:50px;    
+    background-color: #808080; /* This color gets inverted color or you can add navbar inverse class in html */
+}
+.table{
+	text-align:center;
+}
+
+#body{
+	background-image: url('images/bg.jpg');
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
